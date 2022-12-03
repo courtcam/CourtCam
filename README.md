@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-
 My name is Courtney Campbell and im pursing a career of DevOps Engineering at LUIT!!!
 
-My backgorund is in System administration where I work mostly with windows ssystem. Devops is new for me and im loveing so far. If you are reading this now then this is the result of me pursing my DevOps career. 
-
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+My backgorund is in System administration where I work mostly with windows systems.  Devops is new for me and im loving so far. If you're reading this now then this is the result of me pursing my DevOps as career. 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Courtney%20Campbell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/courtney-campbell-a53b68130/)](https://www.linkedin.com/in/courtney-campbell-a53b68130/)
 [![Medium Badge](https://img.shields.io/badge/Courtney%20Campbell-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@courtcamDevOps)](https://medium.com/@courtcamDevOps)
-[![Linkedin Badge](https://img.shields.io/badge/-Courtney%20Campbell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Courtney%20Campbell-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@courtcamDevOps/)](https://medium.com/@courtcamDevOps/)
->>
 [![Gmail Badge](https://img.shields.io/badge/-CourtCam1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:CourtCam1995@gmail.com)](mailto:CourtCam1995@gmail.com)
 
 ## ⚡ Technologies
